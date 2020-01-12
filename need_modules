@@ -1,0 +1,5 @@
+cnpm install koa koa-router koa-bodyparser mysql koa-cors --save
+
+cnpm install superagent async cheerio --save
+
+cnpm i superagent-charset --save
